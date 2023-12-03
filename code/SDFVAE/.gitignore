@@ -1,0 +1,8 @@
+*.npy
+*.png
+*.csv
+*.pkl
+*.txt
+*.pyc
+*.sh
+runs/
